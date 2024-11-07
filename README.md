@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Tamim-29
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 📫 How to reach me ...
+- 😄 Little Bit Tensed 
+- ⚡ Fun fact: ...
+- https://www.facebook.com/tamim.rahman29?mibextid=ZbWKwL
+- https://wa.me/qr/BKUENWLD4H55K1
+
+<!---
+Tamim-29/Tamim-29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
