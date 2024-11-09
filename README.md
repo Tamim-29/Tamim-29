@@ -12,7 +12,6 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 - **MS EXCEL**
 - **ADOBE**
 - **Cybersecurity**
-- **C,C#**
 
 ## Technologies
 
