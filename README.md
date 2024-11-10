@@ -13,7 +13,6 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 - **ADOBE**
 - **Cybersecurity**
 
-## Technologies
 
 ### Programming Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
@@ -48,6 +47,7 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 ![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
 ---
+
 
 ## Others
 
