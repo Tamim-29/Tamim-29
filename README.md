@@ -47,3 +47,6 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
 ![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
+---
+
+![Profile Views](https://img.shields.io/badge/Profile%20Views-5%2C703%2C795-00008B?style=for-the-badge&labelColor=black&color=blue)
