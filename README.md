@@ -50,4 +50,4 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 
 ## Others
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-5%2C703%2C795-00008B?style=for-the-badge&labelColor=black&color=blue)
+[![Profile Views](https://komarev.com/ghpvc/?username=Tamim-29&color=blue&label=Profile+Views)](https://github.com/Tamim-29)
