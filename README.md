@@ -49,4 +49,6 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
 ---
 
+## Others
+
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-5%2C703%2C795-00008B?style=for-the-badge&labelColor=black&color=blue)
