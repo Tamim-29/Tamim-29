@@ -15,8 +15,8 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 - **ADOBE**
 - **CYBER SECURITY**
 - **PROBLEM SOLVING**
-- BLOCKCHAIN DEVELOPER
-- SOFTWARE DEVELOPER 
+- **BLOCKCHAIN DEVELOPMENT**
+- **SOFTWARE DEVELOPMENT**
 
 
 ### Programming Languages
