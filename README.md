@@ -11,7 +11,7 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 - **MS WORD**
 - **MS EXCEL**
 - **ADOBE**
-- **Cybersecurity**
+- **CYBER SECURITY**
 
 
 ### Programming Languages
