@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-tamimr795@gmail.com-blue)](mailto:tamimr795@gmail.com)
 
 ## About Me
-I'm a dedicated and passionate developer with a deep interest in Web Development.Little Bit Tensed 
+I'm a dedicated and passionate developer with a deep interest in Web Development & Networking . Too much straight & forward . A Little Bit Who Always Tensed . 
 
 ## Skills
 - **MS WORD**
