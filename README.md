@@ -28,19 +28,16 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat)
 
 
-
 ### Frameworks & Libraries
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
 
 
-
 ### Tools & Platforms
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat)
-
 
 
 ### Blockchain & Cloud
@@ -51,5 +48,4 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 
 
 ## Others
-
 [![Profile Views](https://komarev.com/ghpvc/?username=Tamim-29&color=blue&label=Profile+Views)](https://github.com/Tamim-29)
