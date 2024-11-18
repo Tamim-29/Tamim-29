@@ -75,7 +75,8 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 
 ![Tamim-29 GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamim-29&show_icons=true&theme=default)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tamim-29&theme=default)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tamim-29&theme=default)](https://git.io/streak-stats)
 
 
 
