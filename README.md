@@ -48,6 +48,9 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat)
+![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
+![Microsoft Word](https://img.shields.io/badge/-Word-2B579A?logo=microsoft-word&logoColor=white&style=flat)
+![Microsoft PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white&style=flat)
 
 
 
@@ -69,9 +72,10 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 
 ## Others 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamim-29&layout=compact)
+
 ![Tamim-29 GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamim-29&show_icons=true&theme=default)
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tamim-29&theme=default)
 
 
 
