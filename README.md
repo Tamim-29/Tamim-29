@@ -46,9 +46,8 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 ---
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://bd.linkedin.com/in/md-nasim-uddin-khan-314785337)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/nasimkhan-uu)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1Ckk8ttAFj/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/Tamim-29)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)]https://www.facebook.com/tamim.rahman29?mibextid=ZbWKwL
 
 
 ## Others 
@@ -56,6 +55,4 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 
 ![Tamim-29 GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamim-29&show_icons=true&theme=default)
 
-
-## Others
 [![Profile Views](https://komarev.com/ghpvc/?username=Tamim-29&color=blue&label=Profile+Views)](https://github.com/Tamim-29)
