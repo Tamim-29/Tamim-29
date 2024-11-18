@@ -5,8 +5,12 @@
 [![Email](https://img.shields.io/badge/Email-tamimr795@gmail.com-blue)](mailto:tamimr795@gmail.com)
 
 
+
+
 ## About Me
 I'm a dedicated and passionate developer with a deep interest in Web Development & Networking . A little bit .
+
+
 
 
 ## Skills
@@ -19,6 +23,8 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 - **SOFTWARE DEVELOPMENT**
 
 
+
+
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
@@ -28,10 +34,14 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat)
 
 
+
+
 ### Frameworks & Libraries
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
+
+
 
 
 ### Tools & Platforms
@@ -40,22 +50,28 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat)
 
 
+
+
 ### Blockchain & Cloud
 ![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
 ---
 
 
+
+
 ## Connect with Me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/Tamim-29)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/tamim.rahman29?mibextid=ZbWKwL)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801993396690-brightgreen)](https://wa.me/8801993396690)
+
 
 
 
 ## Others 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamim-29&layout=compact)
 ![Tamim-29 GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamim-29&show_icons=true&theme=default)
+
+
 
 
 
