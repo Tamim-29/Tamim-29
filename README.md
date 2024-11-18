@@ -45,6 +45,16 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
 ---
 
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://bd.linkedin.com/in/md-nasim-uddin-khan-314785337)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/nasimkhan-uu)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1Ckk8ttAFj/)
+
+
+## Others 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamim-29&layout=compact)
+
+![Tamim-29 GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamim-29&show_icons=true&theme=default)
 
 
 ## Others
