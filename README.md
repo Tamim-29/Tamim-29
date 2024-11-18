@@ -54,5 +54,9 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamim-29&layout=compact)
 
 ![Tamim-29 GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamim-29&show_icons=true&theme=default)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/tamim.rahman29?mibextid=ZbWKwL)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Tamim-29&color=blue&label=Profile+Views)](https://github.com/Tamim-29)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tamim-29&theme=default)](https://git.io/streak-stats)
