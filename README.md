@@ -47,7 +47,7 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 
 ## Connect with Me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/Tamim-29)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)]https://www.facebook.com/tamim.rahman29?mibextid=ZbWKwL
+
 
 
 ## Others 
