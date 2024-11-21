@@ -1,4 +1,4 @@
-# Hi there, I'm Tamim Rahman 👋
+# Hi there, I'm Tamim Rahman Tauhid 👋
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801993396690-brightgreen)](https://wa.me/8801993396690)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/tamim.rahman29?mibextid=ZbWKwL)
@@ -9,8 +9,6 @@
 
 ## About Me
 I'm a dedicated and passionate developer with a deep interest in Web Development & Networking . A little bit .
-
-
 
 
 ## Skills
