@@ -4,11 +4,11 @@
 I'm a dedicated and passionate developer with a deep interest in Web Development & Networking . A little bit .
 
 ## Skills
-- **MS WORD , EXCEL , ADOBE**
 - **CYBER SECURITY**
 - **PROBLEM SOLVING**
 - **BLOCKCHAIN DEVELOPMENT**
 - **SOFTWARE DEVELOPMENT**
+- **WEB DEVELOPMENT**
 
 
 ### Programming Languages
