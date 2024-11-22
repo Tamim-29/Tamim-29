@@ -1,12 +1,5 @@
 # Hi there, I'm Tamim Rahman Tauhid 👋
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801993396690-brightgreen)](https://wa.me/8801993396690)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/tamim.rahman29?mibextid=ZbWKwL)
-[![Email](https://img.shields.io/badge/Email-tamimr795@gmail.com-blue)](mailto:tamimr795@gmail.com)
-
-
-
-
 ## About Me
 I'm a dedicated and passionate developer with a deep interest in Web Development & Networking . A little bit .
 
@@ -62,6 +55,8 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 
 
 ## Connect with Me
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801993396690-brightgreen)](https://wa.me/8801993396690)
+[![Email](https://img.shields.io/badge/Email-tamimr795@gmail.com-blue)](mailto:tamimr795@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/Tamim-29)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/tamim.rahman29?mibextid=ZbWKwL)
 
