@@ -3,17 +3,12 @@
 ## About Me
 I'm a dedicated and passionate developer with a deep interest in Web Development & Networking . A little bit .
 
-
 ## Skills
-- **MS WORD**
-- **MS EXCEL**
-- **ADOBE**
+- **MS WORD , EXCEL , ADOBE**
 - **CYBER SECURITY**
 - **PROBLEM SOLVING**
 - **BLOCKCHAIN DEVELOPMENT**
 - **SOFTWARE DEVELOPMENT**
-
-
 
 
 ### Programming Languages
@@ -26,12 +21,10 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 
 
 
-
 ### Frameworks & Libraries
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
-
 
 
 
@@ -45,13 +38,10 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 
 
 
-
 ### Blockchain & Cloud
 ![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
 ---
-
-
 
 
 ## Connect with Me
@@ -67,7 +57,6 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 ![Tamim-29 GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamim-29&show_icons=true&theme=default)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tamim-29&theme=default)](https://git.io/streak-stats)
-
 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Tamim-29&color=blue&label=Profile+Views)](https://github.com/Tamim-29)
