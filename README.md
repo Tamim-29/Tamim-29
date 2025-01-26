@@ -4,11 +4,8 @@
 I'm a dedicated and passionate developer with a deep interest in Web Development & Networking . A little bit always tensed .
 
 ## Skills
-- **CYBER SECURITY**
 - **PROBLEM SOLVING**
-- **BLOCKCHAIN DEVELOPMENT**
-- **SOFTWARE DEVELOPMENT**
-- **WEB DEVELOPMENT**
+- **NETWORKING**
 
 
 ### Programming Languages
