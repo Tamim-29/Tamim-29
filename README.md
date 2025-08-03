@@ -38,6 +38,16 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
 
+### 📚 Currently Reading
+- *Clean Code* by Robert C. Martin
+- *Designing Data-Intensive Applications* by Martin Kleppmann
+
+### 🎓 Learning Goals for 2025
+- Master React.js
+- Earn AWS Cloud Practitioner Cert
+- Deploy 3 full-stack projects
+
+
 ### ❓ FAQ
 
 **Q: What’s your coding philosophy?**  
