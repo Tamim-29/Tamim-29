@@ -40,8 +40,6 @@ Tamim Rahman Tauhid
 🔹 [Portfolio Website](https://github.com/Tamim-29/Portfolio)  
   > My personal portfolio made with HTML, CSS & Vue.js
 
-https://profile-counter.glitch.me/
-
 
 ### Frameworks & Libraries
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
@@ -67,12 +65,12 @@ https://profile-counter.glitch.me/
   A: Yes! I enjoy contributing to small and medium projects.
 
 **Q: Backend or frontend?**  
-A: Full-stack, but backend is my true love 💙
+  A: Usual but networking is my true love 💙
 
 ### 🤓 Did You Know?
-  🔹 I wrote my first "Hello World" in C when I was 14!  
-  🔹 I prefer dark mode over light mode 🌙  
-  🔹 My favorite debugging tool is... console.log 😅  
+  🔹 I wrote my first "Hello World" in C when I was 17!  
+  🔹 I prefer dark mode over lmymode 🌙  
+  🔹 My favorite debugging tool is... 😅  
 
 
 ### 🧠 Currently Learning
