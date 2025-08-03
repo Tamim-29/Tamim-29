@@ -16,7 +16,6 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat)
 
-  <img width="800" height="300" alt="image" src="https://github.com/user-
 
 ### Frameworks & Libraries
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
