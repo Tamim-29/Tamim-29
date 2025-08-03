@@ -40,6 +40,7 @@ Tamim Rahman Tauhid
 🔹 [Portfolio Website](https://github.com/Tamim-29/Portfolio)  
   > My personal portfolio made with HTML, CSS & Vue.js
 
+https://profile-counter.glitch.me/
 
 
 ### Frameworks & Libraries
