@@ -72,6 +72,7 @@ A: Yes! I enjoy contributing to small and medium projects.
 **Q: Backend or frontend?**  
 A: Full-stack, but backend is my true love 💙
 
+[![Spotify](https://novatorem-tamim29.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
 
 ### Tools & Platforms
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
