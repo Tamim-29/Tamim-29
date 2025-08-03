@@ -32,8 +32,6 @@ Tamim Rahman Tauhid
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tamim-29&theme=tokyonight)](https://git.io/streak-stats)
-
 
 ### 🛠️ Featured Projects
 
