@@ -20,6 +20,9 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Tamim-29&color=brightgreen)
+
+
 ### 🛠️ Featured Projects
 
 🔹 [MyChatApp](https://github.com/Tamim-29/MyChatApp)  
