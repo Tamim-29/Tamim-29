@@ -102,6 +102,7 @@ A: Full-stack, but backend is my true love 💙
 
 ![Tamim-29 GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamim-29&show_icons=true&theme=default)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tamim-29&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tamim-29&theme=tokyonight)](https://git.io/streak-stats)
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Tamim-29&color=brightgreen)
