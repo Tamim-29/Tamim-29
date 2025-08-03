@@ -6,6 +6,18 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 ## Skills
 - **PROBLEM SOLVING**
 - **NETWORKING**
+- > whoami  
+Tamim Rahman Tauhid  
+
+> pwd  
+~/Web-Dev/Networking  
+
+> skills --list  
+🧠 Problem Solving  
+🌐 Networking  
+💻 Full-Stack Dev
+
+
 
 - ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tamim-29&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
@@ -20,17 +32,7 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat)
 
-> whoami  
-Tamim Rahman Tauhid  
-
-> pwd  
-~/Web-Dev/Networking  
-
-> skills --list  
-🧠 Problem Solving  
-🌐 Networking  
-💻 Full-Stack Dev
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tamim-29&theme=tokyonight)](https://git.io/streak-stats)
 
 
 ### 🛠️ Featured Projects
