@@ -7,6 +7,9 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 - **PROBLEM SOLVING**
 - **NETWORKING**
 
+- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Tamim-29&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
 <img align="right" alt="Coding" width="300" height="250" src="https://github.com/alaminbhuyan/githubProfileImages/blob/master/coding2.gif?raw=true">
 
 ### Programming Languages
