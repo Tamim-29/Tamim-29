@@ -6,7 +6,8 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 ## Skills
 - **PROBLEM SOLVING**
 - **NETWORKING**
-- > whoami  
+
+ > whoami  
 Tamim Rahman Tauhid  
 
 > pwd  
