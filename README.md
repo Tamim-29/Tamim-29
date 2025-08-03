@@ -4,20 +4,15 @@
 I'm a dedicated and passionate developer with a deep interest in Web Development & Networking . A little bit eccedentesiast.
 
 ## Skills
-- **PROBLEM SOLVING**
-- **NETWORKING**
+  🧠 Problem Solving  
+  🌐 Networling  
+  💻 Full-Stack Dev
 
  > whoami  
 Tamim Rahman Tauhid  
 
 > pwd  
 ~/Web-Dev/Networking  
-
-## skills --list  
-🧠 Problem Solving  
-🌐 Networking  
-💻 Full-Stack Dev
-
 
 
 - ## 🏆 GitHub Trophies
