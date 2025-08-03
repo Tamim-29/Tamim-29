@@ -109,10 +109,8 @@ A: Full-stack, but backend is my true love 💙
 
 
 ## Others 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamim-29&layout=compact)
-
-![Tamim-29 GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamim-29&show_icons=true&theme=default)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tamim-29&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamim-29&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Tamim-29&theme=tokyonight)](https://git.io/streak-stats)
 
 
