@@ -13,7 +13,7 @@ Tamim Rahman Tauhid
 > pwd  
 ~/Web-Dev/Networking  
 
-> skills --list  
+## skills --list  
 🧠 Problem Solving  
 🌐 Networking  
 💻 Full-Stack Dev
@@ -21,7 +21,7 @@ Tamim Rahman Tauhid
 
 
 - ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tamim-29&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+   ![](https://github-profile-trophy.vercel.app/?username=Tamim-29&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 <img align="right" alt="Coding" width="300" height="250" src="https://github.com/alaminbhuyan/githubProfileImages/blob/master/coding2.gif?raw=true">
 
@@ -37,13 +37,13 @@ Tamim Rahman Tauhid
 ### 🛠️ Featured Projects
 
 🔹 [MyChatApp](https://github.com/Tamim-29/MyChatApp)  
-> A real-time messaging app using WebSockets & Node.js
+  > A real-time messaging app using WebSockets & Node.js
 
 🔹 [Network-Visualizer](https://github.com/Tamim-29/Network-Visualizer)  
-> A tool to simulate and visualize network data flows.
+  > A tool to simulate and visualize network data flows.
 
 🔹 [Portfolio Website](https://github.com/Tamim-29/Portfolio)  
-> My personal portfolio made with HTML, CSS & Vue.js
+  > My personal portfolio made with HTML, CSS & Vue.js
 
 
 
@@ -53,36 +53,36 @@ Tamim Rahman Tauhid
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
 
 ### 📚 Currently Reading
-- *Clean Code* by Robert C. Martin
-- *Designing Data-Intensive Applications* by Martin Kleppmann
+  - *Clean Code* by Robert C. Martin
+  - *Designing Data-Intensive Applications* by Martin Kleppmann
 
 ### 🎓 Learning Goals for 2025
-- Master React.js
-- Earn AWS Cloud Practitioner Cert
-- Deploy 3 full-stack projects
+  - Master React.js
+  - Earn AWS Cloud Practitioner Cert
+  - Deploy 3 full-stack projects
 
 
 ### ❓ FAQ
 
 **Q: What’s your coding philosophy?**  
-A: Code should be simple, readable, and efficient.
+  A: Code should be simple, readable, and efficient.
 
 **Q: Do you work on open source?**  
-A: Yes! I enjoy contributing to small and medium projects.
+  A: Yes! I enjoy contributing to small and medium projects.
 
 **Q: Backend or frontend?**  
 A: Full-stack, but backend is my true love 💙
 
 ### 🤓 Did You Know?
-🔹 I wrote my first "Hello World" in C when I was 14!  
-🔹 I prefer dark mode over light mode 🌙  
-🔹 My favorite debugging tool is... console.log 😅  
+  🔹 I wrote my first "Hello World" in C when I was 14!  
+  🔹 I prefer dark mode over light mode 🌙  
+  🔹 My favorite debugging tool is... console.log 😅  
 
 
 ### 🧠 Currently Learning
-- 🌐 Advanced Networking
-- 🧱 Blockchain Fundamentals
-- ☁️ AWS & Cloud Infrastructure
+  - 🌐 Advanced Networking
+  - 🧱 Blockchain Fundamentals
+  - ☁️ AWS & Cloud Infrastructure
 
 ### Tools & Platforms
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
