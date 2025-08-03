@@ -20,6 +20,18 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat)
 
+### 🛠️ Featured Projects
+
+🔹 [MyChatApp](https://github.com/Tamim-29/MyChatApp)  
+> A real-time messaging app using WebSockets & Node.js
+
+🔹 [Network-Visualizer](https://github.com/Tamim-29/Network-Visualizer)  
+> A tool to simulate and visualize network data flows.
+
+🔹 [Portfolio Website](https://github.com/Tamim-29/Portfolio)  
+> My personal portfolio made with HTML, CSS & Vue.js
+
+
 
 ### Frameworks & Libraries
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
