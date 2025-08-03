@@ -20,8 +20,6 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Tamim-29&color=brightgreen)
-
 
 ### 🛠️ Featured Projects
 
@@ -93,3 +91,5 @@ A: Full-stack, but backend is my true love 💙
 ![Tamim-29 GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamim-29&show_icons=true&theme=default)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tamim-29&theme=default)](https://git.io/streak-stats)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Tamim-29&color=brightgreen)
