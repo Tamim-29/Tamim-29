@@ -38,6 +38,16 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
 
+### ❓ FAQ
+
+**Q: What’s your coding philosophy?**  
+A: Code should be simple, readable, and efficient.
+
+**Q: Do you work on open source?**  
+A: Yes! I enjoy contributing to small and medium projects.
+
+**Q: Backend or frontend?**  
+A: Full-stack, but backend is my true love 💙
 
 
 ### Tools & Platforms
