@@ -7,6 +7,7 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 - **PROBLEM SOLVING**
 - **NETWORKING**
 
+<img align="right" alt="Coding" width="300" height="250" src="https://github.com/alaminbhuyan/githubProfileImages/blob/master/coding2.gif?raw=true">
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
