@@ -20,6 +20,8 @@ Tamim Rahman Tauhid
 
 <img align="right" alt="Coding" width="300" height="250" src="https://github.com/alaminbhuyan/githubProfileImages/blob/master/coding2.gif?raw=true">
 
+
+
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
