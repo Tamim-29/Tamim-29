@@ -1,4 +1,5 @@
-# Hi there, I'm Tamim Rahman Tauhid
+# Hello, Wassup It's me U'r Tamim..
+All good ? Let's introduce me at the down !!
 
 ## About Me
 I'm a dedicated and passionate developer with a deep interest in Web Development & Networking . A little bit eccedentesiast.
