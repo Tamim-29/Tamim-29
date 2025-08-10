@@ -8,16 +8,17 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
   🌐 Networling  
   💻 Full-Stack Dev
 
+
+  <img align="right" alt="Terminal" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">     
+  
+
  > whoami  
 Tamim Rahman Tauhid                                                                                                                          
 > pwd  
 ~/Web-Dev/Networking  
 
 - ## 🏆 GitHub Trophies
-   ![](https://github-profile-trophy.vercel.app/?username=Tamim-29&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-               
-
-<img align="right" alt="Terminal" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">      
+   ![](https://github-profile-trophy.vercel.app/?username=Tamim-29&theme=monokai&no-frame=false&no-bg=false&margin-w=4) 
 
                                                                                                                    
 ### Programming Languages
