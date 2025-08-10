@@ -18,10 +18,7 @@ Tamim Rahman Tauhid
 - ## 🏆 GitHub Trophies
    ![](https://github-profile-trophy.vercel.app/?username=Tamim-29&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
-<img align="right" alt="Coding" width="300" height="250" src="https://github.com/Tamim-29 /githubProfileImages/blob/master/coding2.gif?raw=true">
-
-![Tamim-29](https://raw.githubusercontent.com/Tamim-29/Tamim-29/main/assets/Tamim-29.png)
-
+<img align="right" alt="Coding" width="300" height="250" src="https://github.com/githubProfileImages/blob/master/coding2.gif?raw=true">
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
