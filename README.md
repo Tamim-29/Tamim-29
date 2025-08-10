@@ -106,8 +106,6 @@ Tamim Rahman Tauhid
 ## Others 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Tamim-29&color=brightgreen)
 
-![Tamim-29 image](https://private-user-images.githubusercontent.com/140798910/467702621-ad1ff485-354f-4705-a2ed-55c30f09ab32.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ4MTYxODEsIm5iZiI6MTc1NDgxNTg4MSwicGF0aCI6Ii8xNDA3OTg5MTAvNDY3NzAyNjIxLWFkMWZmNDg1LTM1NGYtNDcwNS1hMmVkLTU1YzMwZjA5YWIzMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgxMFQwODUxMjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04MDcwZGQxMGUwNWVjZTVhYWZhOTdiNjgxNDJhZWMwYWZjNjJhMGViZTFmYmZmNmY5ZWMyYWFjOTllNWY4ODA1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.6TIArfobvOBjqzte6EfrKc6ki9BAukHLcKFxdXD4kIQ)
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tamim-29&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamim-29&layout=compact&theme=radical)
