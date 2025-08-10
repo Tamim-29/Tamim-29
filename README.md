@@ -18,8 +18,9 @@ Tamim Rahman Tauhid
 - ## 🏆 GitHub Trophies
    ![](https://github-profile-trophy.vercel.app/?username=Tamim-29&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
-<img align="right" alt="Coding" width="300" height="250" src="https://github.com/alaminbhuyan/githubProfileImages/blob/master/coding2.gif?raw=true">
+<img align="right" alt="Coding" width="300" height="250" src="https://github.com/Tamim-29 /githubProfileImages/blob/master/coding2.gif?raw=true">
 
+![Tamim-29](https://raw.githubusercontent.com/Tamim-29/Tamim-29/main/assets/Tamim-29.png)
 
 
 ### Programming Languages
@@ -94,10 +95,6 @@ Tamim Rahman Tauhid
 ### Blockchain & Cloud
 ![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
 
 ---
 
