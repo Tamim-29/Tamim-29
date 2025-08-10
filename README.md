@@ -16,9 +16,9 @@ Tamim Rahman Tauhid
 
 
 - ## 🏆 GitHub Trophies
-   ![](https://github-profile-trophy.vercel.app/?username=Tamim-29&theme=monokai&no-frame=false&no-bg=false&margin-w=4)      <img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+   ![](https://github-profile-trophy.vercel.app/?username=Tamim-29&theme=monokai&no-frame=false&no-bg=false&margin-w=4)      <img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">  <img align="center" alt="Pixel Coding" width="100" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
-<img align="center" alt="Pixel Coding" width="300" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+  
 
                                                                                                                          
 ### Programming Languages
