@@ -87,10 +87,6 @@ Tamim Rahman Tauhid
 ![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
 ![Microsoft Word](https://img.shields.io/badge/-Word-2B579A?logo=microsoft-word&logoColor=white&style=flat)
 ![Microsoft PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white&style=flat)
-[![Next][Next.js]][Next-url]
-[![React][React.js]][React-url]
-[![Vue][Vue.js]][Vue-url]
-[![Angular][Angular.io]][Angular-url]
 
 
 
@@ -98,10 +94,10 @@ Tamim Rahman Tauhid
 ### Blockchain & Cloud
 ![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
-[![Svelte][Svelte.dev]][Svelte-url]
-[![Laravel][Laravel.com]][Laravel-url]
-[![Bootstrap][Bootstrap.com]][Bootstrap-url]
-[![JQuery][JQuery.com]][JQuery-url]
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
 
 ---
 
