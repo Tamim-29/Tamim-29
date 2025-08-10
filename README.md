@@ -4,14 +4,12 @@
 I'm a dedicated and passionate developer with a deep interest in Web Development & Networking . A little bit eccedentesiast.
 
 
- <img align="right" alt="Terminal" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">     
-
-
-## Skills
+## Skills                                                                                                                          
   🧠 Problem Solving  
   🌐 Networling  
   💻 Full-Stack Dev
 
+    <img align="right" alt="Terminal" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
  > whoami  
 Tamim Rahman Tauhid                                                                                                                          
