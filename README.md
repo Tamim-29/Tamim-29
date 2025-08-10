@@ -18,7 +18,7 @@ Tamim Rahman Tauhid
 - ## 🏆 GitHub Trophies
    ![](https://github-profile-trophy.vercel.app/?username=Tamim-29&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
-![Coding](https://github.com/githubProfileImages/blob/master/coding2.gif?raw=true)
+
 
 
 
