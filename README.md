@@ -9,8 +9,12 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
   💻 Full-Stack Dev
 
 
+
+
   <img align="right" alt="Terminal" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">     
   
+
+
 
  > whoami  
 Tamim Rahman Tauhid                                                                                                                          
