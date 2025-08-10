@@ -13,14 +13,12 @@ Tamim Rahman Tauhid
 > pwd  
 ~/Web-Dev/Networking  
 
+- ## 🏆 GitHub Trophies
+   ![](https://github-profile-trophy.vercel.app/?username=Tamim-29&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+               
 
 <img align="right" alt="Terminal" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">      
 
-  
-
-- ## 🏆 GitHub Trophies
-   ![](https://github-profile-trophy.vercel.app/?username=Tamim-29&theme=monokai&no-frame=false&no-bg=false&margin-w=4)                    
-                                                                                                                   
                                                                                                                    
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
