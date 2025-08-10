@@ -9,11 +9,6 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
   🌐 Networling  
   💻 Full-Stack Dev
 
- > whoami  
-Tamim Rahman Tauhid                                                                                                                          
-> pwd  
-~/Web-Dev/Networking  
-
 - ## 🏆 GitHub Trophies
    ![](https://github-profile-trophy.vercel.app/?username=Tamim-29&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
