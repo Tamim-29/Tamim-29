@@ -102,7 +102,7 @@ Tamim Rahman Tauhid
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/Tamim-29)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/tamim.rahman29?mibextid=ZbWKwL)
 
-
+[![Tamim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tamim-29&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Others 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tamim-29&show_icons=true&theme=radical)
