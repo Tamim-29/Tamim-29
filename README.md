@@ -46,11 +46,6 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
   - *Clean Code* by Robert C. Martin
   - *Designing Data-Intensive Applications* by Martin Kleppmann
 
-### 🎓 Learning Goals for 2025
-    - Master React.js
-    - Earn AWS Cloud Practitioner Cert
-    - Deploy 3 full-stack projects
-
 ### ❓ FAQ
 **Q: What’s your coding philosophy?**  
   A: Code should be simple, readable, and efficient.
