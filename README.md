@@ -47,11 +47,12 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
   - *Designing Data-Intensive Applications* by Martin Kleppmann
 
 ### ❓ FAQ
-
 **Q: What’s your coding philosophy?**  
   A: Code should be simple, readable, and efficient.
+  
 **Q: Do you work on open source?**  
   A: Yes! I enjoy contributing to small and medium projects
+  
 **Q: Backend or frontend?**  
   A: Usual but networking is my true love 💙
 
