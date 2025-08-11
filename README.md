@@ -117,7 +117,6 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img alt="Alibaba Cloud" src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" />
 </p>
-<!-- Blockchain Platforms -->
 <p align="left">
   <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img alt="Binance Smart Chain" src="https://img.shields.io/badge/Binance_Smart_Chain-F0B90B?style=for-the-badge&logo=binance&logoColor=white" />
