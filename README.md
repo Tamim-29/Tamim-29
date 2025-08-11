@@ -3,7 +3,6 @@
 ## About Me
 I'm a dedicated and passionate developer with a deep interest in Web Development & Networking . A little bit eccedentesiast.
 
-
 ## Skills                                                                                                                          
   🧠 Problem Solving  
   🌐 Networling  
@@ -32,7 +31,6 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
 </p>
 
-
 ### Frameworks & Libraries
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
@@ -53,15 +51,11 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
     - Earn AWS Cloud Practitioner Cert
     - Deploy 3 full-stack projects
 
-
 ### ❓ FAQ
-
 **Q: What’s your coding philosophy?**  
   A: Code should be simple, readable, and efficient.
-
 **Q: Do you work on open source?**  
   A: Yes! I enjoy contributing to small and medium projects.
-
 **Q: Backend or frontend?**  
   A: Usual but networking is my true love 💙
 
@@ -69,7 +63,6 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
   🔹 I wrote my first "Hello World" in C when I was 17!  
   🔹 I prefer dark mode over lmymode 🌙  
   🔹 My favorite debugging tool is... 😅  
-
 
 ### 🧠 Currently Learning
   - 🌐 Advanced Networking
@@ -135,17 +128,14 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 </p>
 
 
-
 ## Connect with Me
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801993396690-brightgreen)](https://wa.me/8801993396690)
 [![Email](https://img.shields.io/badge/Email-tamimr795@gmail.com-blue)](mailto:tamimr795@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/Tamim-29)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/tamim.rahman29?mibextid=ZbWKwL)
 
-
 ## Others 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Tamim-29&color=brightgreen)
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tamim-29&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamim-29&layout=compact&theme=radical)
