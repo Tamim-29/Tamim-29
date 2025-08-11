@@ -33,18 +33,6 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 </p>
 
 
-### 🛠️ Featured Projects
-
-🔹 [MyChatApp](https://github.com/Tamim-29/MyChatApp)  
-  > A real-time messaging app using WebSockets & Node.js
-
-🔹 [Network-Visualizer](https://github.com/Tamim-29/Network-Visualizer)  
-  > A tool to simulate and visualize network data flows.
-
-🔹 [Portfolio Website](https://github.com/Tamim-29/Portfolio)  
-  > My personal portfolio made with HTML, CSS & Vue.js
-
-
 ### Frameworks & Libraries
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
@@ -61,9 +49,9 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
   - *Designing Data-Intensive Applications* by Martin Kleppmann
 
 ### 🎓 Learning Goals for 2025
-  - Master React.js
-  - Earn AWS Cloud Practitioner Cert
-  - Deploy 3 full-stack projects
+    - Master React.js
+    - Earn AWS Cloud Practitioner Cert
+    - Deploy 3 full-stack projects
 
 
 ### ❓ FAQ
