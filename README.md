@@ -46,7 +46,7 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
   - *Clean Code* by Robert C. Martin
   - *Designing Data-Intensive Applications* by Martin Kleppmann
 
-### ❓ FAQ
+### ❓ QNA
 **Q: What’s your coding philosophy?**  
   A: Code should be simple, readable, and efficient.
   
