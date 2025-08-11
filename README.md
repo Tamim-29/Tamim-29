@@ -42,11 +42,11 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
 
-### 📚 Currently Reading
+### Currently Reading 📚 
   - *Clean Code* by Robert C. Martin
   - *Designing Data-Intensive Applications* by Martin Kleppmann
 
-### ❓ QNA
+### QNA ❓
 **Q: What’s your coding philosophy?**  
   A: Code should be simple, readable, and efficient.
   
@@ -56,12 +56,12 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 **Q: Backend or frontend?**  
   A: Usual but networking is my true love 💙
 
-### 🤓 Did You Know?
+### Did You Know? 🤓
   🔹 I wrote my first "Hello World" in C when I was 17!  
   🔹 I prefer dark mode over lmymode 🌙  
   🔹 My favorite debugging tool is... 😅  
 
-### 🧠 Currently Learning
+### Currently Learning 🧠
   - 🌐 Advanced Networking
   - 🧱 Blockchain Fundamentals
   - ☁️ AWS & Cloud Infrastructure
