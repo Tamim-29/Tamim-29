@@ -116,7 +116,23 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img alt="Alibaba Cloud" src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" />
+</p> <p align="left">
+  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img alt="Binance Smart Chain" src="https://img.shields.io/badge/Binance_Smart_Chain-F0B90B?style=for-the-badge&logo=binance&logoColor=white" />
+  <img alt="Polygon" src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />
+  <img alt="Solana" src="https://img.shields.io/badge/Solana-00FFA3?style=for-the-badge&logo=solana&logoColor=white" />
+  <img alt="Cardano" src="https://img.shields.io/badge/Cardano-0033AD?style=for-the-badge&logo=cardano&logoColor=white" />
+  <img alt="Avalanche" src="https://img.shields.io/badge/Avalanche-E84142?style=for-the-badge&logo=avalanche&logoColor=white" />
+  <img alt="Polkadot" src="https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white" />
+  <img alt="Tron" src="https://img.shields.io/badge/TRON-EB0029?style=for-the-badge&logo=tron&logoColor=white" />
+  <img alt="Hyperledger" src="https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />
+  <img alt="Corda" src="https://img.shields.io/badge/Corda-E1251B?style=for-the-badge&logo=r3&logoColor=white" />
+  <img alt="Stellar" src="https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=stellar&logoColor=white" />
+  <img alt="Tezos" src="https://img.shields.io/badge/Tezos-2C7DF7?style=for-the-badge&logo=tezos&logoColor=white" />
+  <img alt="Near" src="https://img.shields.io/badge/Near-000000?style=for-the-badge&logo=near&logoColor=white" />
+  <img alt="Algorand" src="https://img.shields.io/badge/Algorand-000000?style=for-the-badge&logo=algorand&logoColor=white" />
 </p>
+
 
 
 ---
