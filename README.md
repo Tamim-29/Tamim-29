@@ -5,7 +5,7 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 
 ## Skills                                                                                                                          
   🧠 Problem Solving  
-  🌐 Networling  
+  🌐 Networking  
   💻 Developer 
 
 - ## 🏆 GitHub Trophies
