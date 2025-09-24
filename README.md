@@ -26,6 +26,7 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 </p>
 
 ### Frameworks & Libraries
+<p align="left">
 <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <p align="left">   
 <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -60,6 +61,7 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
   - ☁️ AWS & Cloud Infrastructure
 
 ### Tools & Platforms
+<p align="left">
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <HTML5L5 alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badhttpsor=white" />
@@ -74,6 +76,7 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 
 
 ### Cloud 
+<p align="left">
 <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img alt="IBM Cloud" src="https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white" />
 <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
