@@ -20,11 +20,11 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 <img alt="C%" src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 <img alt="Java" src= "https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 <img alt="Python" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img alt="JavaScript" src="JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img alt="Typescript" src="TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img alt="PHP" src="PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img alt="HTML" src="HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white" />
-<img alt="CSS" src="CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
+<img alt="JavaScript" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img alt="Typescript" src= "https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="PHP" src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img alt="HTML" src= "https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white" />
+<img alt="CSS" src= "https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
 </p>
 
 ### Frameworks & Libraries
