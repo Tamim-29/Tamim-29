@@ -2,7 +2,8 @@
 
 ## About Me
 I'm a dedicated and passionate developer with a deep interest in Web Development & Networking . A little bit eccedentesiast.
-
+## Bio
+A man's duty doesn't end with his heartbeat, if i'm not here, soul's continuation of my will, call him...!!
 ## Skills                                                                                                                          
   🧠 Problem Solving  
   🌐 Networking  
