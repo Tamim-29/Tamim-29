@@ -1,7 +1,7 @@
 # Wassup Buddy !! It's me u'r Tamim . All good ? Let's introduce me at the down !!
 
 ## About Me
-I'm a dedicated and passionate developer with a deep interest in Web Development & Networking . A little bit eccedentesiast.
+I'm a dedicated and passionate developer with a deep interest in Web Development & Networking
 ## Bio
 A Little Awaken Turtle Who Always Tensed...!!
 ## Skills                                                                                                                          
