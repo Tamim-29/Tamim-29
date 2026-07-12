@@ -104,7 +104,6 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 ## Others 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Tamim-29&color=brightgreen)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tamim-29&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamim-29&layout=compact&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Tamim-29&theme=tokyonight)](https://git.io/streak-stats)
