@@ -50,14 +50,10 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
   
 **Q: Do you work on open source?**  
   A: Yes! I enjoy contributing to small and medium projects
-  
-**Q: Backend or frontend?**  
-  A: Usual but networking is my true love 💙
 
 ### Did You Know? 🤓
   🔹 I wrote my first "Hello World" in C when I was 17!  
-  🔹 I prefer dark mode over lmymode 🌙  
-  🔹 My favorite debugging tool is... 😅  
+  🔹 I prefer dark mode over lmymode 🌙    
 
 ### Currently Learning 🧠
   - 🌐 Advanced Networking
@@ -75,7 +71,6 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 <img alt="Word" src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
 <img alt="PowerPoint" src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
 </p>
-
 
 
 ### Cloud 
